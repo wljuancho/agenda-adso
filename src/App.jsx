@@ -25,6 +25,20 @@ export default function App() {
       correo: "luisa@sena.edu.co",
       etiqueta: "Cliente",
     },
+    {
+      id: 4,
+      nombre: "keiner johan moreno",
+      telefono: "323 232 3212",
+      correo: "keinerjohan@gmail.com",
+      etiqueta: "primo",
+    },
+    {
+      id: 5,
+      nombre: "saul hernandes",
+      telefono: "323 143 2453",
+      correo: "saulhernandes@gmail.com",
+      etiqueta: "tio",
+    },
   ];
 
   return (
