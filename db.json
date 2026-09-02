@@ -1,19 +1,4 @@
 {
-  "contactos": [
-    {
-      "nombre": "karol",
-      "telefono": "3117061280",
-      "correo": "karollcorpas@gmail.com",
-      "etiqueta": "amiga",
-      "id": "73fWhNyx2-Q"
-    },
-    {
-      "nombre": "eduardo",
-      "telefono": "3184011072",
-      "correo": "admin@sena.edu.co",
-      "etiqueta": "papa noel",
-      "id": "qZwmPg1N3WU"
-    }
-  ],
+  "contactos": [],
   "$schema": "./node_modules/json-server/schema.json"
 }
